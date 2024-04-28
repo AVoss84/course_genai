@@ -1,2 +1,2 @@
-# course_genai
-Material from Deeplearning.ai course: Generative AI with Large Language Models
+# Generative AI with Large Language Models
+Material of Coursera's Deeplearning.ai course: Generative AI with Large Language Models
